@@ -1,5 +1,7 @@
 # Diagnostic and Prognostic Breast Cancer
 
+Trained with TPOT whichs is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+
 ## Diagnostic Breast Cancer
 
 - predicting field ->  diagnosis: B = benign, M = malignant
