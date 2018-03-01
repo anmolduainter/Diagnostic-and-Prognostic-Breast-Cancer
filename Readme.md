@@ -15,7 +15,7 @@ There are two main classifications of tumors. One is known as benign and the oth
 3-32)
 
 Ten real-valued features are computed for each cell nucleus:
-
+```
 	a) radius (mean of distances from center to points on the perimeter)
 	b) texture (standard deviation of gray-scale values)
 	c) perimeter
@@ -27,6 +27,7 @@ Ten real-valued features are computed for each cell nucleus:
 	i) symmetry 
 	j) fractal dimension ("coastline approximation" - 1)
 
+```
 - Missing attribute values: none
 - Class distribution: 357 benign, 212 malignant
 
@@ -45,6 +46,7 @@ Ten real-valued features are computed for each cell nucleus:
 	field 2	= N)
 4-33) 
 Ten real-valued features are computed for each cell nucleus:
+```
 	a) radius (mean of distances from center to points on the perimeter)
 	b) texture (standard deviation of gray-scale values)
 	c) perimeter
@@ -55,5 +57,5 @@ Ten real-valued features are computed for each cell nucleus:
 	h) concave points (number of concave portions of the contour)
 	i) symmetry 
 	j) fractal dimension ("coastline approximation" - 1)
-
+```
 - Class distribution: 151 nonrecur, 47 recur
