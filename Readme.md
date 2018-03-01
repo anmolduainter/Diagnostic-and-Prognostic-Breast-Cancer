@@ -44,9 +44,7 @@ Ten real-valued features are computed for each cell nucleus:
 3) Time (recurrence time if field 2 = R, disease-free time if 
 	field 2	= N)
 4-33) 
-
-	Ten real-valued features are computed for each cell nucleus:
-
+Ten real-valued features are computed for each cell nucleus:
 	a) radius (mean of distances from center to points on the perimeter)
 	b) texture (standard deviation of gray-scale values)
 	c) perimeter
